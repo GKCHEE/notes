@@ -1,0 +1,9 @@
+
+{
+  "name": "Notes & Journal Studio",
+  "description": "A comprehensive personal management suite for notes, budgeting, and secure payments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
